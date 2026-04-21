@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tanvi
+# 👋 Hi, I'm TANVI
 ### Information Science & Engineering (ISE) | Systems Architect & Tech Ops
 
 I specialize in bridging the gap between **Physical Data Systems** and **AI-Driven Intelligence**. My engineering philosophy centers on designing high-performance, zero-latency architectures and utilizing AI-augmented development to deploy enterprise-grade solutions.
